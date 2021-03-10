@@ -14,6 +14,7 @@ This is a directory listing of my notes. Pages are ordered by the date they were
   - [Organisational requirements](#organisational-requirements)
   - [Legislative requirements](#legislative-requirements)
   - [Overview](#overview)
+  - [Format](#format)
   - [Example: Betty's Bakery](#example-bettys-bakery)
 - [Planning and testing](#planning-and-testing)
 
@@ -65,6 +66,15 @@ The Unit explicitly states you must implement:
 - access control
 
 Other measures can be implemented, too!
+
+### Format
+
+- Structured
+  - Bullet points, headings, etc
+- May have intro
+- Show what protection gets set up
+- Justify the protections
+- Justify things you left out
 
 ### Example: Betty's Bakery
 
