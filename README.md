@@ -13,8 +13,8 @@ This is a directory listing of my notes. Pages are ordered by the date they were
   - [Plan contents](#plan-contents)
   - [Organisational requirements](#organisational-requirements)
   - [Legislative requirements](#legislative-requirements)
-  - [Overview](#overview)
   - [Format](#format)
+  - [Overview](#overview)
   - [Example: Betty's Bakery](#example-bettys-bakery)
 - [Planning and testing](#planning-and-testing)
 
@@ -52,6 +52,15 @@ Same laws as 7AB, especially the Data Protection Act.
 
 Your plan **must show that you have read, understood, and taken this into account** (e.g. in an intro or justification).
 
+### Format
+
+- Structured
+  - Bullet points, headings, etc
+- May have intro
+- Show what protection gets set up
+- Justify the protections
+- Justify things you left out
+
 ### Overview
 
 - protect the IT system
@@ -67,14 +76,7 @@ The Unit explicitly states you must implement:
 
 Other measures can be implemented, too!
 
-### Format
-
-- Structured
-  - Bullet points, headings, etc
-- May have intro
-- Show what protection gets set up
-- Justify the protections
-- Justify things you left out
+![](img/planning-protection.png)
 
 ### Example: Betty's Bakery
 
