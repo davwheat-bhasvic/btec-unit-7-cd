@@ -56,6 +56,16 @@ Your plan **must show that you have read, understood, and taken this into accoun
 - protect the IT system
 - meet organisational and legislative requirements
 
+The Unit explicitly states you must implement:
+
+- group policies
+- anti-virus/manti-malware
+- firewall
+- wireless security
+- access control
+
+Other measures can be implemented, too!
+
 ### Example: Betty's Bakery
 
 We need to:
