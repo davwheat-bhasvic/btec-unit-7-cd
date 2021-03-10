@@ -60,7 +60,7 @@ Your plan **must show that you have read, understood, and taken this into accoun
 
 We need to:
 
-- set up appropriate user groups
+- set up appropriate user groups to demonstrate how to control access to each other's files
 - connect to WiFi to demonstrate how to set up security for this type of network
 - connect to the internet to demonstrate how to set up a Firewall to protect and restrict access to the system
 - have anti-virus software installed and configured
