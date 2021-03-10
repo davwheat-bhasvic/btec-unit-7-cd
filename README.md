@@ -59,7 +59,7 @@ Your plan **must show that you have read, understood, and taken this into accoun
 The Unit explicitly states you must implement:
 
 - group policies
-- anti-virus/manti-malware
+- anti-virus/anti-malware
 - firewall
 - wireless security
 - access control
