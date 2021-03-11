@@ -16,7 +16,11 @@ This is a directory listing of my notes. Pages are ordered by the date they were
   - [Format](#format)
   - [Overview](#overview)
   - [Example: Betty's Bakery](#example-bettys-bakery)
-- [Planning and testing](#planning-and-testing)
+- [Testing](#testing)
+  - [Testing effectiveness](#testing-effectiveness)
+  - [Testing plan](#testing-plan)
+  - [Proving effectiveness](#proving-effectiveness)
+  - [Example test plan](#example-test-plan)
 
 ## Planning protection
 
@@ -87,4 +91,60 @@ We need to:
 - connect to the internet to demonstrate how to set up a Firewall to protect and restrict access to the system
 - have anti-virus software installed and configured
 
-## Planning and testing
+## Testing
+
+You need to...
+
+- Review the extent to which the organisation's IT system has been protected
+- Enhance the extent to which the organisation's IT system has been protected
+- Test the extent to which the organisation's IT system has been protected
+
+### Testing effectiveness
+
+- How well protected is the system?
+  - Does it work?
+- Is the system still usable?
+  - Users can still perform the tasks they need to perform
+  - Using the software and files they need to use
+- Does the system still perform well enough?
+  - Can the protection affect productivity and slow down the system?
+
+System administrators (SysAdmins) need to be proactive as the threats change all the time.
+
+- Keep up to date with what current threats are
+- Regularly check if current protection is adequate
+- Look for ways to improve the protection
+
+Setting up protection is **not a one-time affair**.
+
+### Testing plan
+
+- Set up the required protection
+- Test that the protection works as expected
+- Retest regularly
+  - Ensure nothing else has affected another protection
+
+Make a plan
+
+- Risk protected against
+- Test description
+- Expected outcome
+- Actual outcome
+- Comments (any improvements, etc)
+
+### Proving effectiveness
+
+You should prove the effectiveness of your implementations using activity logs.
+
+- Firewall block/allows logging
+- Event logs
+- File access logs
+- Anti-malware scan reports
+
+Logging uses resources. Do not log everything, otherwise you'll have a big issue with performance!
+
+### Example test plan
+
+| Test number | Threat targetted  | Test description      | Expected outcome | Actual outcome  | Comments |
+| :---------: | ----------------- | --------------------- | ---------------- | --------------- | -------- |
+|      1      | Firewall breaches | Set up port 80 access | Port 80 is open  | Port 80 is open |          |
